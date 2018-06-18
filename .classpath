@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/work/sqlite-jdbc/sqlite-jdbc-3.21.0.jar"/>
+	<classpathentry kind="lib" path="E:/work/poi/poi-3.17.jar" sourcepath="E:/work/poi/lib"/>
+	<classpathentry kind="lib" path="E:/work/poi/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/work/poi/poi-ooxml-3.17.jar" sourcepath="C:/Users/ADMINI~1/AppData/Local/Temp/.org.sf.feeling.decompiler1514255746895/source/poi-ooxml-3.17-sources-1514261046718.jar"/>
+	<classpathentry kind="lib" path="E:/work/poi/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/work/poi/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
